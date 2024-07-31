@@ -48,9 +48,26 @@ nav .circle{
 .music-player p{
   font-size: 14px;
   color: #333;
+  margin-top: 20px;
 }
-
-
-
+.music-player p{
+  font-size: 14px;
+  color: #333;
 }
+#progress{
+  -webkit-appearence: none; 
+  width: 100px;
+  height: 6px;
+  background: #f53192;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 40px 0;
+ 
+} 
+
+  
+
+
+
+
 
